@@ -16,5 +16,5 @@ Secondly the server studies the data using our carefully coded algorithm.
 Lastly, server returns a report on the studied data.
 
 How to contribute?
-You can contribute by either helping us code the platform of by sending us a donation.
+You can contribute by either helping us code the platform OR by sending us a donation.
 
