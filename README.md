@@ -11,7 +11,7 @@ This project is for individuals who are interested in the applications of AI and
 
 
 How does it work?
-First the user grants our server access to their data either by signing in with a social media account or by uplading it directly.
+First the user grants our server access to their data either by signing in with one or more social media account or by uploading it directly.
 Secondly the server studies the data using our carefully coded algorithm.
 Lastly, server returns a report on the studied data.
 
