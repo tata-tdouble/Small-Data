@@ -35,6 +35,8 @@ Join our group:
 
 Whatsapp: https://chat.whatsapp.com/KH3eQI3RtMZ3i5C3QW7QoQ
 
+Discord: https://discord.gg/YMmaN5hpNC
+
 <b>Donate :</b>
 
 We appreciate every penny.
