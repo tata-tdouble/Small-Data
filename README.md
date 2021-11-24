@@ -1,11 +1,46 @@
-# Small Data
+# SMALL DATA : Big Data for personal use
 
-This repo is currently under development and your contribution will be highly appreciated.
+<b>What is Small Data ?</b>
 
-What is Small Data? Data mining for personal use.
+Small data is an open source data mining web platform built with Python-Django. 
 
-Who is this project for? This project is for individuals who are interested in the applications of AI and machine learning in the day to day lifes of individuals.
+Small Data evolves around a combination of structured, semistructured and unstructured data submitted by individuals that can be mined for information using Big Data techniques. 
 
-How does it work? First the user grants our server access to their data either by signing in with one or more social media account or by uploading it directly. Secondly the server studies the data using our carefully coded algorithm. Lastly, server returns a report on the studied data.
+This data can be submitted to the platform using the following ways:
 
-How to contribute? You can contribute by either helping us code the platform OR by sending us a donation.
+1) Upload a json file.
+2) Grant the platform access to your data by signing in with a Google account or Facebook account or both.
+3) Installing our browser extension on your browser.
+
+Our server will process the data and provide an analysis that shines light on the individuals lifestyle and habits.
+
+<b>How far has this project been developed?</b>
+
+Presently, we have just a HelloWorld python app :) 
+
+<b>How to install ?</b>
+
+For windows users,
+
+https://docs.djangoproject.com/en/3.2/howto/windows/
+
+For linux users,
+
+https://docs.djangoproject.com/en/3.2/topics/install/
+
+
+<b>How to contribute ?</b>
+
+Join our group:
+
+Whatsapp: https://chat.whatsapp.com/KH3eQI3RtMZ3i5C3QW7QoQ
+
+Discord: https://discord.gg/YMmaN5hpNC
+
+<b>Donate :</b>
+
+We appreciate every penny.
+
+Bitcoin wallet address: bc1qlmcf4l7ehf5vqgu7qf0hmuh5f2sa2g8qeezmyq
+
+Thank you so much.
