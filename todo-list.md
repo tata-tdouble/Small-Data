@@ -26,7 +26,7 @@ $ python manage.py makemigrations
 $ python manage.py migrate
 
 
-# 2. Change he name of the Website to Small Data (The Logo will be changed later).
+# 2. Change the name of the Website to Small Data (The Logo will be changed later).
 
 Please if you know any graphic designer who might be willing to help us design a logo, please invite him/her to join our group on Whatsapp or our server on Discord.
 
