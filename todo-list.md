@@ -26,13 +26,18 @@ $ python manage.py makemigrations
 $ python manage.py migrate
 
 
-# 2. Remove all the Sign-in/Sign-up APIs Except that of Facebook and Add your Facebook API credentials.</b>
+# 2. Change he name of the Website to Small Data (The Logo will be changed later).
 
-To add Facebook API credentials to the program follow the instructions under Chapter called "Obtaining API Keys" on the django-hackathon-starter page on github.
+Please if you know any graphic designer who might be willing to help us design a logo, please invite him/her to join our group on Whatsapp or our server on Discord.
 
+# 3. Add your API credentials.
 
-# 3. Upon user login (after user logsin with facebook)
+To add your API credentials to the program follow the instructions under the Chapter called "Obtaining API Keys" on the django-hackathon-starter page on github.
 
-- create a function that request data (last 100 post on users feed)from Facebook once every day and stores the data in our database (as JSON).
+# 4. Upon user login.
+
+- Add a function that executes once a day starting from the day the user signs up for an account. This function should request data (last 100 post on users feed) and store it in our database (as JSON).
 
 # 4. Push editted code to the development devlopment branch of this repo.
+
+
