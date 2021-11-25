@@ -10,7 +10,7 @@ Instructions can be found here: https://github.com/DrkSephy/django-hackathon-sta
 
 # 2. Add your API credentials.
 
-To add your API credentials to the program follow the instructions under the Chapter called "Obtaining API Keys" on the django-hackathon-starter page on github.
+To add your API credentials to the program follow the instructions under the Chapter called "Obtaining API Keys" on the django-hackathon-starter project page on github.
 
 # 3. Change the name of the Website to Small Data (The Logo will be changed later).
 
@@ -18,7 +18,7 @@ Please if you know any graphic designer who might be willing to help us design a
 
 # 4. Add Function.
 
-- Add a function that executes once a day starting from the day the user signs up for an account. This function should request data (last 100 post on users feed) and store it in our database (as JSON).
+Add a function that executes once a day starting from the day the user signs up for an account. This function should request data (last 100 post on users feed) and store it in our database (as JSON).
 
 # 5. Push edited code to the devlopment branch of our repo.
 
