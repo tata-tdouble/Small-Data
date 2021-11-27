@@ -1,0 +1,1 @@
+web: gunicorn small-data.wsgi --log-file -
